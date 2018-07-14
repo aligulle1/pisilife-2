@@ -12,8 +12,8 @@
         <PartOf>programming</PartOf>
         <Summary xml:lang="en">Powerful Python and Django IDE. Community edition.</Summary>
         <Description xml:lang="en">Powerful Python and Django IDE. Community edition.</Description>
-        <Archive type="targz" sha1sum="85fb6783036e6bb7e34de605c59938c07e72f796">https://download-cf.jetbrains.com/python/pycharm-community-2018.1.4
-.tar.gz</Archive>
+        <Archive type="targz" sha1sum="85fb6783036e6bb7e34de605c59938c07e72f796">https://download-cf.jetbrains.com/python/pycharm-community-2018.1.4.tar.gz
+</Archive>
     </Source>
     <Package>
         <Name>pycharm-community</Name>
